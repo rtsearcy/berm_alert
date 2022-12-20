@@ -11,3 +11,6 @@
 - TBD
 
 RTS - December 2022
+
+![](data/cover_photo.png)
+Credit: Planet
