@@ -1,6 +1,7 @@
 # berm_alert
 
-## Overview: A CV classifier that can indicate if a coastal stream is bermed (i.e. a lagoon has formed) or is open to the sea
+## Overview: 
+A CV classifier that can indicate if a coastal stream is bermed (i.e. a lagoon has formed) or is open to the sea
 
 ## Motivation:
 - Fish passage: berms control when anadromous fish such as salmon and steelhead can migrate to and from the ocean
