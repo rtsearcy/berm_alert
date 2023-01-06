@@ -1,1 +1,0 @@
-Keep creek images here, classified into separate folders. E.g. closed and open subdirectories

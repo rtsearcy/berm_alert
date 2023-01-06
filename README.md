@@ -14,4 +14,5 @@ A CV classifier that can indicate if a coastal stream is bermed (i.e. a lagoon h
 RTS - December 2022
 
 ![](data/cover_photo.png)
+
 Credit: Planet
